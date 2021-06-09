@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Playlist.create(name: "Sparky", artist: "foo", time: "240")
 Playlist.create(name: "Spot", artist: "bar", time: "180")
-Playlist.create(name: "Goldy", artist: "foobar", time: "120")
+Playlist.create(name: "Goldy", artist: "foobar", time: "121")
