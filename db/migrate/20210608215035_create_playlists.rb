@@ -4,7 +4,8 @@ class CreatePlaylists < ActiveRecord::Migration[6.1]
       t.string :name
       t.string :artist
       t.string :time
-
+      t.string :coverart
+      t.string :singerart
       t.timestamps
     end
   end

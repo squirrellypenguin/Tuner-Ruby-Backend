@@ -19,6 +19,8 @@ ActiveRecord::Schema.define(version: 2021_06_08_215035) do
     t.string "name"
     t.string "artist"
     t.string "time"
+    t.string "coverart"
+    t.string "singerart"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
